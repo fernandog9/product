@@ -143,7 +143,7 @@ VALUES ( 42453, 'KG130', 3, 1290.00 );
 
 COMMIT;
 
---display table contents
+--display table contents ok
 SELECT * FROM rep;
 SELECT * FROM customer;
 SELECT * FROM product;
